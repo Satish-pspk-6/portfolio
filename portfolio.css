@@ -1,0 +1,21 @@
+.viratkohliimg {
+    border-radius: 50px;
+    height: 30vh;
+    width: 20vw;
+}
+.myportfolio {
+    color:darkblue;
+}
+.name {
+    color:darkgoldenrod;
+    font-family: "Roboto";
+}
+.about {
+    color:blueviolet;
+    font-family: "Roboto";
+}
+.technicalskills {
+    
+    color:burlywood;
+    font-family: "Roboto";
+}
